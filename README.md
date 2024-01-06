@@ -8,6 +8,4 @@ I implemented kernel image processing and convulution techniques to code 3 image
 - [Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 - [Sobel Operator](https://en.wikipedia.org/wiki/Sobel_operator)
 - [Edge Detection](https://en.wikipedia.org/wiki/Edge_detection)
-- [RSA Encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-- [Modular Exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 - C++
